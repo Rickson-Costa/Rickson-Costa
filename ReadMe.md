@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Eu sou estudante de Redes de Computadores<br>🤝 Tenho técnico em Manutenção e Suporte<br>💬 Sou esforçado, comprometido e não consigo deixar nada para depois<br>⚡ Python, HTML, CSS, Java Script
+🔭 Eu sou estudante de Redes de Computadores<br>🤝 Tenho técnico em Manutenção e Suporte<br>⚡ Programador Back-End
 
 
 ## 🌐 Socials:
