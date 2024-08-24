@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-⚡ Eu sou estudante de Redes de Computadores<br>⚡ Tenho técnico em Manutenção e Suporte<br>⚡ E sou programador Back-End
+⚡ Eu sou estudante de Análise e Desenvolvimento de Sistemas<br>⚡ Tenho técnico em Manutenção e Suporte<br>⚡ E sou programador Back-End
 
 
 ## 🌐 Network:
