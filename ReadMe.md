@@ -1,7 +1,7 @@
 # 💫 Sobre mim:
-🎓 Estudante de Análise e Desenvolvimento de Sistemas, sempre em busca de aprimorar meus conhecimentos na área de tecnologia.
-🛠️ Formado como Técnico em Manutenção e Suporte, com experiência prática em infraestrutura e hardware.
-💻 Programador Full-Stack com foco no desenvolvimento Back-End, criando soluções robustas e escaláveis.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas, sempre em busca de aprimorar meus conhecimentos na área de tecnologia.<br>
+🛠️ Formado como Técnico em Manutenção e Suporte, com experiência prática em infraestrutura e hardware.<br>
+💻 Programador Full-Stack com foco no desenvolvimento Back-End, criando soluções robustas e escaláveis.<br>
 
 
 ## 🌐 Network:
