@@ -1,5 +1,7 @@
 # 💫 Sobre mim:
-⚡ Eu sou estudante de Análise e Desenvolvimento de Sistemas<br>⚡ Tenho técnico em Manutenção e Suporte<br>⚡ E sou programador Back-End
+🎓 Estudante de Análise e Desenvolvimento de Sistemas, sempre em busca de aprimorar meus conhecimentos na área de tecnologia.
+🛠️ Formado como Técnico em Manutenção e Suporte, com experiência prática em infraestrutura e hardware.
+💻 Programador Full-Stack com foco no desenvolvimento Back-End, criando soluções robustas e escaláveis.
 
 
 ## 🌐 Network:
