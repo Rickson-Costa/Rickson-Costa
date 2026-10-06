@@ -51,9 +51,15 @@
 
 ---
 
+### 💳 Pagamentos & E-commerce
+
+[![PIX](https://img.shields.io/badge/PIX_·_QR_Code-4DB6A2?style=for-the-badge&logo=pix&logoColor=white)](https://www.bcb.gov.br/estabilidadefinanceira/pix) [![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-00AAFF?style=for-the-badge&logo=mercadopago&logoColor=white)](https://www.mercadopago.com.br) [![Asaas](https://img.shields.io/badge/Asaas-00C5B2?style=for-the-badge)](https://www.asaas.com) [![PagBank](https://img.shields.io/badge/PagBank_·_PagSeguro-FFC700?style=for-the-badge)](https://pagseguro.uol.com.br) [![Pluggy](https://img.shields.io/badge/Pluggy_·_Open_Finance-6B4EFF?style=for-the-badge)](https://pluggy.ai)
+
+---
+
 ### 🔗 Integração & Infraestrutura
 
-[![Active Directory](https://img.shields.io/badge/Active_Directory_(LDAP)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview) [![WinRM](https://img.shields.io/badge/WinRM_·_PSRP-2b579a?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/windows/win32/winrm/portal) [![SNMP](https://img.shields.io/badge/SNMP_%2F_WMI-6d597a?style=for-the-badge)](https://learn.microsoft.com/windows/win32/wmisdk/wmi-start-page) [![Kerberos](https://img.shields.io/badge/Kerberos_·_NTLM-6d597a?style=for-the-badge)](https://web.mit.edu/kerberos/) [![REST](https://img.shields.io/badge/REST_·_JSON-000000?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org)
+[![Active Directory](https://img.shields.io/badge/Active_Directory_(LDAP)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview) [![WinRM](https://img.shields.io/badge/WinRM_·_PSRP-2b579a?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/windows/win32/winrm/portal) [![SNMP](https://img.shields.io/badge/SNMP_%2F_WMI-6d597a?style=for-the-badge)](https://learn.microsoft.com/windows/win32/wmisdk/wmi-start-page) [![Kerberos](https://img.shields.io/badge/Kerberos_·_NTLM-6d597a?style=for-the-badge)](https://web.mit.edu/kerberos/) [![SSO](https://img.shields.io/badge/SSO_·_Single_Sign--On-1a4d2e?style=for-the-badge)](https://en.wikipedia.org/wiki/Single_sign-on) [![Google Workspace](https://img.shields.io/badge/Google_Workspace_API-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://workspace.google.com) [![REST](https://img.shields.io/badge/REST_·_JSON-000000?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org)
 
 ---
 
@@ -79,6 +85,8 @@ Projetos internos/privados (não open-source) — a referência prática por tr�
 ---
 
 ### 🚀 Projetos pessoais
+
+> 🛒 **[RickHAC](https://rickhac.com)** — plataforma demo multi-nicho de e-commerce (moda, pet shop, hortifruti, marcenaria, pastelaria, supermercado e mais), cada loja com identidade visual própria. Inclui carrinho/checkout unificado com simulador comparando taxas de Mercado Pago e Asaas via PIX, e emissão de DANFE. No ar em produção.
 
 | Projeto | Descrição | Tech |
 |---|---|---|
