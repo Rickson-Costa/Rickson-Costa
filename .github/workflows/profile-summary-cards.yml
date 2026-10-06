@@ -26,13 +26,12 @@ jobs:
           USERNAME: Rickson-Costa
           AUTO_PUSH: false
 
-      - name: Copiar cards (tema dracula) para assets/
+      - name: Copiar cards (tema vue, verde) para assets/
         run: |
           mkdir -p assets
-          origem="profile-summary-card-output/dracula"
+          origem="profile-summary-card-output/vue"
           echo "Conteudo gerado:"; ls -1 "$origem" || true
           cp "$origem/0-profile-details.svg" assets/profile-details.svg
-          cp "$origem/1-repos-per-language.svg" assets/langs.svg
           echo "Copiado para assets/:"; ls -1 assets/
 
       - name: Commit dos cards
