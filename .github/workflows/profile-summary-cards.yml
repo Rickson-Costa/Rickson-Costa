@@ -1,0 +1,33 @@
+name: Generate Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          user: Rickson-Costa
+          theme: github_dark
+          template: classic
+
+      - name: Copy cards into assets/
+        run: |
+          mkdir -p assets
+          cp profile-summary-cards-output/github_dark/0-profile-details.svg assets/profile-details.svg
+          cp profile-summary-cards-output/github_dark/1-repos-per-language.svg assets/langs.svg
+          cp profile-summary-cards-output/github_dark/3-stats.svg assets/stats.svg
+
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update profile summary cards"
+          file_pattern: assets/*.svg
