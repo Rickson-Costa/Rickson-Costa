@@ -105,7 +105,7 @@ Projetos internos/privados (não open-source) — a referência prática por tr�
 ### 📈 Atividade no GitHub
 
 <p align="center">
-  <img height="203px" src="https://streak-stats.demolab.com/?user=Rickson-Costa&theme=dracula&hide_border=true" />
+  <img height="203px" src="https://streak-stats.demolab.com/?user=Rickson-Costa&theme=vue-dark&hide_border=true" />
 </p>
 
 <picture>
