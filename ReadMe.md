@@ -1,9 +1,10 @@
-<h1 align="center">Olá, eu sou o Rickson Costa 👋</h1>
-<h3 align="center">💻 Desenvolvedor de Sistemas @ Hospital Napoleão Laureano</h3>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Rickson%20Costa&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20de%20Sistemas&descAlignY=65&descSize=20"/>
+</p>
 
 <p align="center">
   Full-Stack com foco em Back-End — desenvolvimento, manutenção e automação de sistemas internos na área da saúde.<br/>
-  Formado como Técnico em Manutenção e Suporte, com bagagem prática em infraestrutura e hardware.
+  Formado como Desenvolvedor e Analista de Sistemas e Técnico de Manutenção e Suporte de Computadores, com diversos cursos na área e bagagem prática em desenvolvimento, infraestrutura e hardware.
 </p>
 
 <p align="center">
@@ -98,16 +99,6 @@ Projetos internos/privados (não open-source) — a referência prática por tr�
 
 ---
 
-### 📊 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rickson-Costa&theme=highcontrast&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Rickson-Costa&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" />
-</p>
-
 ---
 
 ### 📫 Onde me encontrar
@@ -119,7 +110,7 @@ Projetos internos/privados (não open-source) — a referência prática por tr�
 </p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Rickson-Costa&icon=0&color=0" alt="visitor count"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Rickson-Costa&color=blueviolet&style=flat-square&label=Visualiza%C3%A7%C3%B5es" alt="visitor count"/>
 </p>
 
 ---
