@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rickson-Costa&theme=highcontrast&hide_border=true" />
+  <img height="203px" src="https://streak-stats.demolab.com/?user=Rickson-Costa&theme=dracula&hide_border=true" />
 </p>
 
 ---

@@ -1,39 +1,42 @@
-name: Generate Profile Summary Cards
+name: Atualizar Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch: {}
   push:
-    branches:
-      - main
+    branches: [main]
+    paths-ignore:
+      - "assets/**"
+
+permissions:
+  contents: write
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate cards
+      - name: Gerar cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          user: Rickson-Costa
-          theme: github_dark
-          template: classic
+          USERNAME: Rickson-Costa
+          AUTO_PUSH: false
 
-      - name: Show generated output (debug)
-        run: find profile-summary-cards-output -type f
-
-      - name: Copy cards into assets/
+      - name: Copiar cards (tema dracula) para assets/
         run: |
           mkdir -p assets
-          cp profile-summary-cards-output/github_dark/0-profile-details.svg assets/profile-details.svg
-          cp profile-summary-cards-output/github_dark/1-repos-per-language.svg assets/langs.svg
-          cp profile-summary-cards-output/github_dark/3-stats.svg assets/stats.svg
+          origem="profile-summary-card-output/dracula"
+          echo "Conteudo gerado:"; ls -1 "$origem" || true
+          cp "$origem/0-profile-details.svg" assets/profile-details.svg
+          cp "$origem/1-repos-per-language.svg" assets/langs.svg
+          echo "Copiado para assets/:"; ls -1 assets/
 
-      - name: Commit and push
+      - name: Commit dos cards
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update profile summary cards"
-          file_pattern: assets/*.svg
+          commit_message: "chore: atualizar cards de estatisticas"
+          file_pattern: "assets/*.svg"
