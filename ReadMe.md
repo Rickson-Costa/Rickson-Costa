@@ -1,6 +1,9 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Rickson%20Costa&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20de%20Sistemas&descAlignY=65&descSize=20"/>
+  <img width="100%" src="https://raw.githubusercontent.com/Rickson-Costa/Rickson-Costa/main/assets/banner.gif"/>
 </p>
+
+<h1 align="center">Rickson Costa</h1>
+<h3 align="center">💻 Desenvolvedor de Sistemas</h3>
 
 <p align="center">
   Full-Stack com foco em Back-End — desenvolvimento, manutenção e automação de sistemas internos na área da saúde.<br/>
