@@ -21,19 +21,15 @@
   </a>
 </p>
 
-<p align="center">
-  <img width="72%" src="https://raw.githubusercontent.com/Rickson-Costa/Rickson-Costa/main/assets/langs.svg"/>
-</p>
-
-<p align="center">
-  <img height="203px" src="https://streak-stats.demolab.com/?user=Rickson-Costa&theme=dracula&hide_border=true" />
-</p>
-
 ---
 
 ### 🚀 Linguagens
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org) [![Shell](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+
+<p align="center">
+  <img width="55%" src="https://raw.githubusercontent.com/Rickson-Costa/Rickson-Costa/main/assets/langs.svg"/>
+</p>
 
 ---
 
@@ -99,6 +95,18 @@ Projetos internos/privados (não open-source) — a referência prática por tr�
 
 ---
 
+### 📈 Atividade no GitHub
+
+<p align="center">
+  <img height="203px" src="https://streak-stats.demolab.com/?user=Rickson-Costa&theme=dracula&hide_border=true" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rickson-Costa/Rickson-Costa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rickson-Costa/Rickson-Costa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph animation" src="https://raw.githubusercontent.com/Rickson-Costa/Rickson-Costa/output/pacman-contribution-graph.svg">
+</picture>
+
 ---
 
 ### 📫 Onde me encontrar
@@ -112,13 +120,5 @@ Projetos internos/privados (não open-source) — a referência prática por tr�
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rickson-Costa&color=blueviolet&style=flat-square&label=Visualiza%C3%A7%C3%B5es" alt="visitor count"/>
 </p>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rickson-Costa/Rickson-Costa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rickson-Costa/Rickson-Costa/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rickson-Costa/Rickson-Costa/output/github-contribution-grid-snake.svg">
-</picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
