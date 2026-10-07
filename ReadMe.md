@@ -1,5 +1,9 @@
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Rickson-Costa/Rickson-Costa/main/assets/banner.gif"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rickson-Costa/Rickson-Costa/main/assets/banner.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rickson-Costa/Rickson-Costa/main/assets/banner-light.gif">
+    <img width="100%" src="https://raw.githubusercontent.com/Rickson-Costa/Rickson-Costa/main/assets/banner.gif"/>
+  </picture>
 </p>
 
 <h1 align="center">Rickson Costa</h1>
