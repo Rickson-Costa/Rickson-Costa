@@ -26,12 +26,17 @@ jobs:
           USERNAME: Rickson-Costa
           AUTO_PUSH: false
 
-      - name: Copiar cards (tema vue, verde) para assets/
+      - name: Copiar cards (tema vue, recolorido black/green) para assets/
         run: |
           mkdir -p assets
           origem="profile-summary-card-output/vue"
           echo "Conteudo gerado:"; ls -1 "$origem" || true
           cp "$origem/0-profile-details.svg" assets/profile-details.svg
+          sed -i \
+            -e 's/fill="#ffffff"/fill="#0d1117"/g' \
+            -e 's/stroke="#e4e2e2"/stroke="#30363d"/g' \
+            -e 's/#000000/#c9d1d9/g' \
+            assets/profile-details.svg
           echo "Copiado para assets/:"; ls -1 assets/
 
       - name: Commit dos cards
