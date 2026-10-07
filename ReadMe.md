@@ -133,7 +133,7 @@ Projetos internos/privados (não open-source) — a referência prática por tr�
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rickson-Costa&color=blueviolet&style=flat-square&label=Visualiza%C3%A7%C3%B5es" alt="visitor count"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rickson-Costa.Rickson-Costa&left_color=%230d1117&right_color=%2341b883&title=Visualiza%C3%A7%C3%B5es" alt="visitor count"/>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
