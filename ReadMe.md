@@ -20,7 +20,11 @@
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/Rickson-Costa/Rickson-Costa/main/assets/profile-details.svg"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rickson-Costa/Rickson-Costa/main/assets/profile-details-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rickson-Costa/Rickson-Costa/main/assets/profile-details-light.svg">
+      <img src="https://raw.githubusercontent.com/Rickson-Costa/Rickson-Costa/main/assets/profile-details-dark.svg"/>
+    </picture>
   </a>
 </p>
 
@@ -105,7 +109,11 @@ Projetos internos/privados (não open-source) — a referência prática por tr�
 ### 📈 Atividade no GitHub
 
 <p align="center">
-  <img height="203px" src="https://streak-stats.demolab.com/?user=Rickson-Costa&hide_border=true&background=0D1117&ring=41B883&fire=41B883&currStreakLabel=41B883&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Rickson-Costa&hide_border=true&background=0D1117&ring=41B883&fire=41B883&currStreakLabel=41B883&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Rickson-Costa&hide_border=true&background=FFFFFF&ring=41B883&fire=41B883&currStreakLabel=41B883&currStreakNum=24292F&sideNums=24292F&sideLabels=57606A&dates=6E7781">
+    <img height="203px" src="https://streak-stats.demolab.com/?user=Rickson-Costa&hide_border=true&background=0D1117&ring=41B883&fire=41B883&currStreakLabel=41B883&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" />
+  </picture>
 </p>
 
 <picture>
